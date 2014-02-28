@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/Classpath/nbproject/private/
